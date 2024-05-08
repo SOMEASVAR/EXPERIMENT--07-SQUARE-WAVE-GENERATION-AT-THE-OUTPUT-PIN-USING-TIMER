@@ -125,8 +125,13 @@ int main(void)
 
 
 ## Output screen shots of proteus  :
- ![image](https://github.com/SOMEASVAR/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/93434149/2ef203dc-4a6a-48d3-ad4d-d4c5dc141017)
+## For Pulse at 5000:
+![image](https://github.com/SOMEASVAR/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/93434149/7b19a717-b2ca-4b69-935e-99ec4b839e57)
+## For Pulse at 7500:
+![image](https://github.com/SOMEASVAR/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/93434149/d57b04cc-ad73-437b-a89c-13692b2f803d)
+## For Pulse at 2500:
 
+![image](https://github.com/SOMEASVAR/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/93434149/89114289-7738-4039-b52b-fc0c4619fc3b)
  
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  ![image](https://github.com/SOMEASVAR/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/93434149/ebf9951c-276c-4e0a-bc43-931e89b61124)
@@ -157,13 +162,17 @@ Duty = 0.44ms/0.6ms = 0.73*100 = 73%
 ```
 ![image](https://github.com/SOMEASVAR/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/93434149/d57b04cc-ad73-437b-a89c-13692b2f803d)
 
-FOR PULSE AT 900
-
-TON = 
-TOFF=
-TOTAL TIME = 
+## FOR PULSE AT 2500:
+```
+TON = 0.8*0.2m = 0.16ms
+TOFF= 2.2*0.2m = 0.44ms
+TOTAL TIME = 0.16ms + 0.44ms = 0.6ms
 FREQUENCY = 1/(TOTAL TIME)
-
+F=1/0.6ms = 1.666*10^3Hz
+F = 1.6KHz
+Duty = 0.16ms/0.6ms = 0.26*100 = 26%
+```
+![image](https://github.com/SOMEASVAR/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/93434149/89114289-7738-4039-b52b-fc0c4619fc3b)
 
 ## Result :
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
