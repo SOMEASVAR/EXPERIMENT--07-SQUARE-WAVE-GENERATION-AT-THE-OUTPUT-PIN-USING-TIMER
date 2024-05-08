@@ -148,7 +148,6 @@ F=1/0.6ms = 1.66*10^3Hz
 F = 1.6 KHz
 Duty = 0.3ms/0.6ms = 1/2 = 0.5*100 = 50%
 ```
-![image](https://github.com/SOMEASVAR/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/93434149/7b19a717-b2ca-4b69-935e-99ec4b839e57)
 
 ## FOR PULSE AT 7500:
 ```
@@ -160,7 +159,6 @@ F=1/0.6ms = 1.666*10^3Hz
 F = 1.6 KHz
 Duty = 0.44ms/0.6ms = 0.73*100 = 73%
 ```
-![image](https://github.com/SOMEASVAR/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/93434149/d57b04cc-ad73-437b-a89c-13692b2f803d)
 
 ## FOR PULSE AT 2500:
 ```
@@ -172,7 +170,7 @@ F=1/0.6ms = 1.666*10^3Hz
 F = 1.6KHz
 Duty = 0.16ms/0.6ms = 0.26*100 = 26%
 ```
-![image](https://github.com/SOMEASVAR/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/93434149/89114289-7738-4039-b52b-fc0c4619fc3b)
+
 
 ## Result :
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
